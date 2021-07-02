@@ -1,6 +1,9 @@
 # Layout_Challenge
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/47273077/124247525-ef1c1000-db5c-11eb-9aa7-f5569832cb61.png" width="200">
+
+## ツール、開発環境など
+- Android Studio 4.0.1
 
 ## Getting Started
 
@@ -14,4 +17,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# SampleLayout-Flutter
+
+
+
+
