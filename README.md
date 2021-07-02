@@ -1,6 +1,6 @@
 # Layout_Challenge
 
-<img src="https://user-images.githubusercontent.com/47273077/124247525-ef1c1000-db5c-11eb-9aa7-f5569832cb61.png" width="200">
+<img src="https://user-images.githubusercontent.com/47273077/124247525-ef1c1000-db5c-11eb-9aa7-f5569832cb61.png" width="400">
 
 ## ツール、開発環境など
 - Android Studio 4.0.1
